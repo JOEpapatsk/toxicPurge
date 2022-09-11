@@ -1,8 +1,10 @@
-phrases = {
-  ["l", "is"],
-  ["bozo", "contains"],
-  ["trash", "is"],
-  ["bad", "is"],
-  ["ez", "is"],
-  ["kid", "contains"]
+{
+  "phrases": {
+    ["l", "is"],
+    ["bozo", "contains"],
+    ["trash", "is"],
+    ["bad", "is"],
+    ["ez", "is"],
+    ["kid", "contains"]
+  }
 }
